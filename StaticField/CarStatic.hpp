@@ -1,5 +1,4 @@
 #pragma once
-#include<iostream>
 #include<string>
 
 //zadanie 6.3: zaimplementuj prosta klase Car,
